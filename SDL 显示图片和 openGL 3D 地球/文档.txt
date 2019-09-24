@@ -1,0 +1,1 @@
+GTK开发界面使用SDL显示图片，OpenGL绘制3D地球。地球使用GLut库实现。
